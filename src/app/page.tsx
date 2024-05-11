@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
     <NavBar/>
-    <div className="flex justify-center items-center font-bold mt-24 text-5xl">
+    <div className="flex justify-center items-center font-bold mt-24 md:text-5xl text-4xl">
     Ecom Navbar
     </div>
     </main>

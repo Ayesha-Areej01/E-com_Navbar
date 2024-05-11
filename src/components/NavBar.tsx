@@ -41,7 +41,7 @@ export default function NavBar({}: Props) {
         className='text-3xl cursor-pointer lg:hidden' 
         /> 
         {/* Logo */}
-        <Link href={"/"} className='text-4xl font-serif'>
+        <Link href={"/"} className='text-xl md:text-4xl font-serif'>
             E-Store
         </Link>
       </section>
